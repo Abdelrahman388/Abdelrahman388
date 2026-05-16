@@ -24,8 +24,8 @@ I am a Computer Engineering student at Cairo University passionate about buildin
 | C#         | ASP.NET Core              | Pandas            | SQL Server        |
 | JavaScript | React                     | NumPy             | SQLite            |
 | TypeScript | Flask                     | OpenCV            | Docker            |
-| SQL        | REST AP                   | MLflow            | Git & GitHub      |
-| C++        | Tailwind CSS              | Streamlit         | Postman           |
+| SQL        | REST APIs                 | MLflow            | Git & GitHub      |
+| C++        | Tailwind CSS              | Streamlit         | AWS               |
 
 
 ## 📈 Currently Interested In
