@@ -18,14 +18,48 @@ I am a Computer Engineering student at Cairo University passionate about buildin
 
 ## 🧰 Tech Stack
 
-| Languages  | Frameworks & Technologies | AI / Data Science | Databases & Tools |
-| ---------- | ------------------------- | ----------------- | ----------------- |
-| Python     | Django                    | Scikit-learn      | PostgreSQL        |
-| C#         | ASP.NET Core              | Pandas            | SQL Server        |
-| JavaScript | React                     | NumPy             | SQLite            |
-| TypeScript | Flask                     | OpenCV            | Docker            |
-| SQL        | REST APIs                 | MLflow            | Git & GitHub      |
-| C++        | Tailwind CSS              | Streamlit         | AWS               |
+### Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,js,ts,cpp" />
+</p>
+
+### Frameworks & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,dotnet,react,flask,tailwind" />
+</p>
+
+### AI / Data Science
+
+<!-- <p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
+</p> -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Scikit--Learn-000?style=for-the-badge&logo=scikitlearn" />
+  <img src="https://img.shields.io/badge/-Pandas-000?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/-NumPy-000?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&logo=pytorch" />
+  <img src="https://img.shields.io/badge/-OpenCV-000?style=for-the-badge&logo=opencv" />
+  <img src="https://img.shields.io/badge/-MLflow-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Streamlit-000?style=for-the-badge&logo=streamlit" />
+</p>
+
+### Databases & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,docker,aws,git,github,postman" />
+</p>
+
+<!-- <p align="center">
+  <img src="https://img.shields.io/badge/-SQL%20Server-000?style=for-the-badge&logo=microsoftsqlserver" />
+  <img src="https://img.shields.io/badge/-SQLite-000?style=for-the-badge&logo=sqlite" />
+  <img src="https://img.shields.io/badge/-CI/CD-000?style=for-the-badge" />
+</p> -->
+
+
+---
 
 
 ## 📈 Currently Interested In
