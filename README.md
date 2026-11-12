@@ -78,5 +78,5 @@ I am a Computer Engineering student at Cairo University passionate about buildin
 ## 📫 Connect With Me
 
 * 🌐 Portfolio: [https://abdelrahman-sameh.com](https://abdelrahman-sameh.com)
-* 💼 LinkedIn: [https://linkedin.com/in/abdelrahman-sameh-372116281](https://linkedin.com/in/abdelrahman-sameh-372116281)
+* 💼 LinkedIn: [https://linkedin.com/in/abdelrahman388](https://linkedin.com/in/abdelrahman388)
 
